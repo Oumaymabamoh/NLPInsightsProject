@@ -4,6 +4,5 @@
 <img width="1400" alt="image" src="https://github.com/Oumaymabamoh/NLPInsightsProject/assets/134213098/50d05221-cfff-457c-8818-dea7ed437298">
 <img width="1400" alt="image" src="https://github.com/Oumaymabamoh/NLPInsightsProject/assets/134213098/79aecad9-d5d9-4c86-917d-6d5f0afcd4f1">
 
- scatter_plot.html
  
 
