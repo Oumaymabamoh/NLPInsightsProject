@@ -37,20 +37,25 @@ This repository delves into the analysis of employee complaints using natural la
 <img width="1400" alt="image" src="https://github.com/Oumaymabamoh/NLPInsightsProject/assets/134213098/50d05221-cfff-457c-8818-dea7ed437298">
 <img width="1400" alt="image" src="https://github.com/Oumaymabamoh/NLPInsightsProject/assets/134213098/79aecad9-d5d9-4c86-917d-6d5f0afcd4f1">
 ### Semantic Analysis: Topic Modeling
+
 - Apply Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF) for topic modeling.
 
 ### Coherence Scores
+
 - Assess model consistency and interpretability using coherence scores: LDA (0.598) and NMF (0.967).
 
 ## Results
 ### Assessing Vectorization Techniques
+
 - Compare BoW and TF-IDF techniques.
 - Both LDA and NMF unveil common and distinct themes.
 
 ### Prevalent Topics
+
 - Identify topics including 'Opportunities and Growth,' 'Communication and Work-life Balance,' 'Leadership Impact,' 'Workload Management,' and 'Employee Roles and Recognition.'
 
 ## Conclusion
+
 - The combination of BoW or TF-IDF with LDA and NMF provides a comprehensive exploration of employee complaints.
 - The choice of technique depends on analytical goals and organizational objectives.
 
