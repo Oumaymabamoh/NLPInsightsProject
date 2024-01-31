@@ -10,8 +10,8 @@ This repository delves into the analysis of employee complaints using natural la
 - **Columns:** Genre, Report, Employee Age, Employee Role, Gender
 - **Genres:** Seven unique categories with 'Communication Issues' being the most prevalent.
 <img width="689" alt="Screen Shot 2024-01-31 at 20 03 11" src="https://github.com/Oumaymabamoh/NLPInsightsProject/assets/134213098/df68e9f5-9269-486d-b06f-b8b0429783e4">
+
 ## Development Overview
-<iframe src="scatter_plot.html" width="800" height="600"></iframe>
 ### Data Exploration
 
 - Import data using pandas for initial exploration.
