@@ -12,6 +12,7 @@ This repository delves into the analysis of employee complaints using natural la
 <img width="689" alt="Screen Shot 2024-01-31 at 20 03 11" src="https://github.com/Oumaymabamoh/NLPInsightsProject/assets/134213098/df68e9f5-9269-486d-b06f-b8b0429783e4">
 
 ## Development Overview
+http://localhost:63342/NLPInsightsProject/scatter_plot.html?_ijt=jdot5kphmmpdfvoetdka2899rk&_ij_reload=RELOAD_ON_SAVE
 ### Data Exploration
 
 - Import data using pandas for initial exploration.
