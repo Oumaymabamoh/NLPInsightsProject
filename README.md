@@ -36,6 +36,7 @@ This repository delves into the analysis of employee complaints using natural la
 <img width="1400" alt="image" src="https://github.com/Oumaymabamoh/NLPInsightsProject/assets/134213098/8f55c916-ab15-4318-a76d-29c1e153a50c">
 <img width="1400" alt="image" src="https://github.com/Oumaymabamoh/NLPInsightsProject/assets/134213098/50d05221-cfff-457c-8818-dea7ed437298">
 <img width="1400" alt="image" src="https://github.com/Oumaymabamoh/NLPInsightsProject/assets/134213098/79aecad9-d5d9-4c86-917d-6d5f0afcd4f1">
+
 ### Semantic Analysis: Topic Modeling
 
 - Apply Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF) for topic modeling.
