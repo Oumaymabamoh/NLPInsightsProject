@@ -43,7 +43,7 @@ This repository delves into the analysis of employee complaints using natural la
 
 ### Coherence Scores
 
-- Assess model consistency and interpretability using coherence scores: LDA (0.598) and NMF (0.967).
+- Assess model consistency and interpretability using coherence scores: LDA and NMF.
 
 ## Results
 ### Assessing Vectorization Techniques
