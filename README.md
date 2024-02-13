@@ -61,3 +61,14 @@ This repository delves into the analysis of employee complaints using natural la
 - The choice of technique depends on analytical goals and organizational objectives.
 
 **Note:** Due to GitHub limitations, the interactive plot can be viewed by opening the HTML file locally or through online HTML preview tools.
+
+## Usage
+To use this code for analyzing your own employee complaint dataset, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Ensure you have Python and necessary libraries installed (e.g., pandas, scikit-learn, gensim).
+3. Replace the dataset in the data directory with your own employee complaint dataset.
+4. Modify the code as needed to adapt to your dataset's structure and characteristics.
+5. Run the Python scripts or notebooks to perform the analysis.
+6.Explore the results and adjust parameters or techniques as desired.
+
